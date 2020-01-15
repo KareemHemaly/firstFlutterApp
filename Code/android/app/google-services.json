@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81745286175",
+    "firebase_url": "https://hemaly-brew-crew.firebaseio.com",
+    "project_id": "hemaly-brew-crew",
+    "storage_bucket": "hemaly-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81745286175:android:8eca81d4d1c47acfabb12a",
+        "android_client_info": {
+          "package_name": "com.hemaly.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81745286175-lqadq74t1bh4oe2sm3n2fq0q6paqdjlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM34RhQSQb4EXsrIWDybQNM1KYehKm_fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81745286175-lqadq74t1bh4oe2sm3n2fq0q6paqdjlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
